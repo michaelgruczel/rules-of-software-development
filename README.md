@@ -22,7 +22,7 @@ If you have values (and you probybly should have), than take sure that the peopl
 
 If you try to let the a small group of persons take the important decisions for other people, all the information mut be transportet, translated (from IT terms to business terms for example). This will cost you a lot of time and the information will change by the translation and the context will be lost. So give people clear responsibilties and trust them to take the right decsision in this areas.
 
-## Responsibilt means the right to decide and vice versa
+## Responsibilty means the right to decide and vice versa
 
 If you give hand the responsibilty for a topic to a person but don't let the person take the decide, he will be demotivated or he will be at least not committed to the topic. The results will not be innovative and of a high quality. So do not split the responsibility from the right to decide.
 
