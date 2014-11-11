@@ -65,4 +65,11 @@ Instead you should check your decisons regulary. I would recommend to build the 
 # recommendations for reading and videos:
 
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
+https://www.startwithwhy.com/tabid/81/Default?ProductID=ssibook
 https://play.google.com/store/books/details/Eric_Schmidt_How_Google_Works?id=fEJ0AwAAQBAJ
+http://vimeo.com/85490944?from=outro-embed
+http://de.slideshare.net/reed2001/culture-1798664
+http://www.youtube.com/watch?v=rrkrvAUbU9Y
+http://www.youtube.com/watch?v=5XD2kNopsUs
+http://www.youtube.com/watch?v=DR_wX0EwOMM
+
