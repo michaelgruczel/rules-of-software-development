@@ -35,7 +35,7 @@ But that does not mean that they are allowed to harm people, destroy the social 
 
 Failures will happen. It is crucial to learn from it. So speak clearly about mistakes, make clear that it is aloud to make mistakes and execute PostMortems without blaming.
 
-## But awareness in your culture
+## Put awareness in your culture
 
 Like in a soccer team, everybody should be aware of the crucial things which are happening. Even if the defender have different skills to the Attackers and even if they concentrate on defending they hav a clear view of all things which are happening on the field. Keep everything transparent and reward the people which show awareness and interest in the things which happen in the company.
 
@@ -49,13 +49,13 @@ Think about creating rest rooms, open spaces for you employees, but keep the wor
 
 There are maybe some companies were someone should say no sometimes, but most of the companies are so afraid of making mistakes, that they block innovative ideas and demotivate people. So prefer doing something and learning from it instead of blocking it upfront. Fast failure is the key word.
 
-## Dont be evil
+## Don't be evil
 
 Google has a 'Dont be evil rule'. If this is part of your culture, awareness, motivation and trust is more likely to happen.
 
-## Dont change process until you have an understanding of how it works
+## Don't change processes until you have an understanding of how it works
 
-Don't start doing scrum, kanban or something before you understand the idea of agility. Starting a maybe good but not fitting process will have very bad results.
+Don't start doing scrum, kanban or something before you understand the idea of agility. Starting a maybe good but not fitting process will have very bad results. Speak with people which are affected before you destroy motivation and before you replaye sub-optimal processes with terrible ones.
 
 ## Buy or build
 
