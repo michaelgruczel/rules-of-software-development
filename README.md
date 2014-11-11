@@ -57,6 +57,11 @@ Google has a 'Dont be evil rule'. If this is part of your culture, awareness, mo
 
 Don't start doing scrum, kanban or something before you understand the idea of agility. Starting a maybe good but not fitting process will have very bad results.
 
+## Buy or build
+
+Often company do one of 2 things. They build everything themself or the buy everything as enterprise service.
+Instead you should check your decisons regulary. I would recommend to build the parts of your core business yourself. And I would recommend to use third party tools for not-core parts. In everycase I would recommend open source if available instead of enterprise stuff.
+
 # recommendations for reading and videos:
 
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
