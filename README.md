@@ -31,10 +31,29 @@ If you give hand the responsibilty for a topic to a person but don't let the per
 Good people are often self motivated. They hate rules, they do not agree to everything. They are difficult to handle. This is exhausting but will results in improvements and results which are not reachable by a group of follower.
 But that does not mean that they are allowed to harm people, destroy the social structures, sell the work of other people as their own work. So these type of people you should fire.
 
+## create a pot mortem culture
+
+Failures will happen. It is crucial to learn from it. So speak clearly about mistakes, make clear that it is aloud to make mistakes and execute PostMortems without blaming.
+
+## But awareness in your culture
+
+Like in a soccer team, everybody should be aware of the crucial things which are happening. Even if the defender have different skills to the Attackers and even if they concentrate on defending they hav a clear view of all things which are happening on the field. Keep everything transparent and reward the people which show awareness and interest in the things which happen in the company.
+
 # Interesting rules
+
+## crowded working rooms but open spaces
 
 Think about creating rest rooms, open spaces for you employees, but keep the working rooms crowded to ensure efficient communication and transparency.
 
-# recommendations for reading:
+## creating a yes culture
 
+There are maybe some companies were someone should say no sometimes, but most of the companies are so afraid of making mistakes, that they block innovative ideas and demotivate people. So prefer doing something and learning from it instead of blocking it upfront. Fast failure is the key word.
+
+## Dont be evil
+
+Google has a 'Dont be evil rule'. If this is part of your culture, awareness, motivation and trust is more likely to happen.
+
+# recommendations for reading and videos:
+
+http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
 https://play.google.com/store/books/details/Eric_Schmidt_How_Google_Works?id=fEJ0AwAAQBAJ
