@@ -53,6 +53,10 @@ There are maybe some companies were someone should say no sometimes, but most of
 
 Google has a 'Dont be evil rule'. If this is part of your culture, awareness, motivation and trust is more likely to happen.
 
+## Dont change process until you have an understanding of how it works
+
+Don't start doing scrum, kanban or something before you understand the idea of agility. Starting a maybe good but not fitting process will have very bad results.
+
 # recommendations for reading and videos:
 
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
