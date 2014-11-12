@@ -39,6 +39,10 @@ Failures will happen. It is crucial to learn from it. So speak clearly about mis
 
 Like in a soccer team, everybody should be aware of the crucial things which are happening. Even if the defender have different skills to the Attackers and even if they concentrate on defending they hav a clear view of all things which are happening on the field. Keep everything transparent and reward the people which show awareness and interest in the things which happen in the company.
 
+## Put 'kaizen' AND disruptions in your culture
+
+Doing small things, reviewing them and learning from it (inspect and adapt) is essential and must be part of your DNA and should be preferred to waterfall approaches in the most cases. In some cases you need additonally disruptions. Waterfall companies will not survice because the problems will change faster then you can plan it. Fast feedback cycles are crucial. But be aware of the fact that at some time huge refactoring/reorganisation are needed. As example if you are building a carriage and you are improveing it in small steps with fast feedbacks, you will build the best cariiage of the wolrd but in order to switch to cars you hhave to reorganize huge parts of your company and small increments will not solve it.
+
 # Interesting rules
 
 ## crowded working rooms but open spaces
